@@ -1,7 +1,7 @@
 name: EconomyAPI
 main: onebone\economyapi\EconomyAPI
 api: 5.0.0
-version: 5.7.5-PM5
+version: 5.7.5
 author: onebone
 
 permissions:
